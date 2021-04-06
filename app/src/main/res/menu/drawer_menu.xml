@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="General">
+        <menu>
+            <item
+                android:id="@+id/home1"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="Home" />
+            <item
+                android:id="@+id/object"
+                android:icon="@drawable/ic_baseline_home_24"
+                android:title="Object Animation" />
+            <item
+                android:id="@+id/motion"
+                android:title="Motion Layout" />
+            <item
+                android:id="@+id/recyclerView2"
+                android:title="Recycler View" />
+
+        </menu>
+    </item>
+
+</menu>

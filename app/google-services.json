@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249993890940",
+    "project_id": "authentificationapp-510c9",
+    "storage_bucket": "authentificationapp-510c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249993890940:android:4003031a0191d72c5d8df9",
+        "android_client_info": {
+          "package_name": "com.fmi.authentificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249993890940-ouu2iqsfuf5go8fv47tmk2tceeuv096e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC097U58-yCrUjXRg-myqUHOKlYj-fh_IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249993890940-ouu2iqsfuf5go8fv47tmk2tceeuv096e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
